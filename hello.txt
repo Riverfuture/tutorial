@@ -3,3 +3,4 @@ Goodbye World Master Test
 master branch
 GitHub에서 수정함
 
+git fetch 기능 테스트를 위한 수정
